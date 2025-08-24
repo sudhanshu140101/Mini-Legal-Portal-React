@@ -66,3 +66,5 @@ Works perfectly on:
 **⭐ If you like this project, please give it a star! ⭐**
 
 ![image alt](https://github.com/sudhanshu140101/Mini-Legal-Portal-React/blob/62811ed2b5e54d9dd3b363817dfe174b7ebd96f1/Screenshot%202025-08-25%20050137.png)
+
+![image alt}(https://github.com/sudhanshu140101/Mini-Legal-Portal-React/blob/ac52fb03d576ab3a4c0eca71037c5771f1db2b21/Screenshot%202025-08-25%20050756.png)
