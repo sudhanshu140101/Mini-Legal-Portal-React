@@ -64,3 +64,5 @@ Works perfectly on:
 **Made with ❤️ using React and Material UI**
 
 **⭐ If you like this project, please give it a star! ⭐**
+
+![image alt](https://github.com/sudhanshu140101/Mini-Legal-Portal-React/blob/62811ed2b5e54d9dd3b363817dfe174b7ebd96f1/Screenshot%202025-08-25%20050137.png)
