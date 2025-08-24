@@ -1,12 +1,66 @@
-# React + Vite
+# ⚖️ Mini Legal Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean legal assistance web app built with React and Material UI.
 
-Currently, two official plugins are available:
+## What This App Does
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Legal Help**: Ask legal questions and get guidance
+- **User Account**: Login and signup system
+- **Save Queries**: Keep track of your legal questions
+- **Mobile Friendly**: Works great on phones and computers
+- **Easy to Use**: Simple, clean interface
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## What's Built With
+
+- **React** - For building the user interface
+- **Material UI** - For beautiful, ready-made components
+- **Vite** - For fast development and building
+- **React Router** - For page navigation
+- **React Hook Form** - For easy form handling
+- **Local Storage** - For saving user data in browser
+
+## Features
+
+### Home Page
+- Welcome section explaining the app
+- Feature cards showing what the app can do
+- Clean, professional design
+
+### Login/Signup Page
+- Easy switching between login and signup
+- Form validation to catch errors
+- Works on mobile devices
+
+### Dashboard
+- User profile with avatar
+- Form to ask new legal questions
+- List of all previous questions
+- Delete unwanted queries
+
+## How to Use
+
+1. **Start**: Go to the home page
+2. **Sign Up**: Create an account (use any email/password for demo)
+3. **Ask Questions**: Type your legal questions in the dashboard
+4. **View History**: See all your previous questions
+5. **Manage**: Delete questions you don't need anymore
+
+## Mobile Support
+
+Works perfectly on:
+- Phones (all sizes)
+- Tablets
+- Desktop computers
+- All modern browsers
+
+## Want to Help?
+
+1. Fork this project
+2. Make your changes
+3. Test everything works
+4. Send a pull request
+
+**Made with ❤️ using React and Material UI**
+
+**⭐ If you like this project, please give it a star! ⭐**
