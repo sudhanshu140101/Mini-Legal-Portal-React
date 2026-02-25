@@ -1,4 +1,4 @@
-# ⚖️ Mini Legal Portal -
+# ⚖️ Mini Legal Portal 
 
 A simple and clean legal assistance web app built with React and Material UI.
 
