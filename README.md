@@ -63,7 +63,7 @@ Works perfectly on:
 
 **Made with ❤️ using React and Material UI**
 
-**⭐ If you like this project, please give it a star! ⭐**
+⭐ If you like this project, please give it a star! ⭐
 
 Home Page -
 
